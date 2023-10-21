@@ -148,7 +148,7 @@
         <mongo-java-driver.version>3.12.11</mongo-java-driver.version>
         <azure-cosmos.version>4.38.0</azure-cosmos.version>
         <java-driver-core.version>4.15.0</java-driver-core.version>
-        <azure-containers-containerregistry.version>1.0.9</azure-containers-containerregistry.version>
+        <azure-containers-containerregistry.version>1.2.2</azure-containers-containerregistry.version>
     </properties>
 
     <dependencyManagement>
