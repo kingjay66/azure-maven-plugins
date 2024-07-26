@@ -59,7 +59,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <azure.toolkit-lib.version>${project.version}</azure.toolkit-lib.version>
+        <azure.toolkit-lib.version>0.41.0</azure.toolkit-lib.version>
 
         <maven.build.timestamp.format>yyyyMMddHHmmssSSS</maven.build.timestamp.format>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -113,7 +113,7 @@
         <guava.version>31.1-jre</guava.version>
         <httpclient.version>4.5.13</httpclient.version>
         <jackson.version>2.13.4</jackson.version>
-        <jackson-databind.version>2.13.4.2</jackson-databind.version>
+        <jackson-databind.version>2.15.0</jackson-databind.version>
         <jansi.version>2.4.0</jansi.version>
         <annotations.version>23.0.0</annotations.version>
         <groovy.version>3.0.11</groovy.version>
