@@ -59,7 +59,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <azure.toolkit-lib.version>${project.version}</azure.toolkit-lib.version>
+        <azure.toolkit-lib.version>0.41.0</azure.toolkit-lib.version>
 
         <maven.build.timestamp.format>yyyyMMddHHmmssSSS</maven.build.timestamp.format>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -82,7 +82,7 @@
         <applicationinsights.version>2.6.4</applicationinsights.version>
         <azure.resourcemanager.version>2.24.0</azure.resourcemanager.version>
         <azure-arm-client-runtime.version>1.7.14</azure-arm-client-runtime.version>
-        <azure-resourcemanager-applicationinsights.version>1.0.0-beta.5</azure-resourcemanager-applicationinsights.version>
+        <azure-resourcemanager-applicationinsights.version>1.0.0</azure-resourcemanager-applicationinsights.version>
         <azure-resourcemanager-appcontainers.version>1.0.0-beta.4</azure-resourcemanager-appcontainers.version>
         <azure-resourcemanager-mysqlflexibleserver.version>1.0.0-beta.2</azure-resourcemanager-mysqlflexibleserver.version>
         <azure-resourcemanager-mysql.version>1.0.2</azure-resourcemanager-mysql.version>
