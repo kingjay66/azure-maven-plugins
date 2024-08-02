@@ -71,7 +71,7 @@
         <maven-javadoc-plugin.version>2.9.1</maven-javadoc-plugin.version>
         <aspectj-maven-plugin.version>1.12.6</aspectj-maven-plugin.version>
 
-        <azure-core.version>1.36.0</azure-core.version>
+        <azure-core.version>1.51.0</azure-core.version>
         <azure-core-management.version>1.10.1</azure-core-management.version>
         <azure-identity.version>1.8.0</azure-identity.version>
         <azure-core-http-netty.version>1.13.0</azure-core-http-netty.version>
