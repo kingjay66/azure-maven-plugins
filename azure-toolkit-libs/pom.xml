@@ -87,7 +87,7 @@
         <azure-resourcemanager-mysqlflexibleserver.version>1.0.0-beta.2</azure-resourcemanager-mysqlflexibleserver.version>
         <azure-resourcemanager-mysql.version>1.0.2</azure-resourcemanager-mysql.version>
         <azure-resourcemanager-postgre.version>1.0.2</azure-resourcemanager-postgre.version>
-        <azure-resourcemanager-loganalytics.version>1.0.0-beta.3</azure-resourcemanager-loganalytics.version>
+        <azure-resourcemanager-loganalytics.version>1.1.0</azure-resourcemanager-loganalytics.version>
         <azure-resourcemanager-eventhubs.version>2.23.0</azure-resourcemanager-eventhubs.version>
         <azure-messaging-eventhubs.version>5.15.2</azure-messaging-eventhubs.version>
         <azure-monitor-query.version>1.0.10</azure-monitor-query.version>
